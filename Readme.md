@@ -10,6 +10,9 @@
 * [StartUpIndex.cshtml](./CS/DXTREMEMVC/Views/StartUp/StartUpIndex.cshtml)
 <!-- default file list end -->
 # How to use the dxChart in an ASP.NET MVC application
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e4471)**
+<!-- run online end -->
 
 
 <p>This example is an illustration of the <a href="https://www.devexpress.com/Support/Center/p/KA20011">KA20011: DevExtreme Mobile - Technical FAQ</a> KB Article. Refer to the Article for an explanation.</p>
