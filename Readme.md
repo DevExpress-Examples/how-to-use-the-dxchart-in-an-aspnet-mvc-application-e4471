@@ -11,7 +11,7 @@
 <!-- default file list end -->
 # How to use the dxChart in an ASP.NET MVC application
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e4471)**
+**[[Run Online]](https://codecentral.devexpress.com/e4471/)**
 <!-- run online end -->
 
 
